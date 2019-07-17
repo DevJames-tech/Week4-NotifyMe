@@ -1,25 +1,4 @@
-Notify Me! Sample App (Solution Code)
-=====================================
 
-The Notify Me! app delivers a notification in response to a button click.
-The notification has the ability to update itself with a picture as well as
-cancel itself using notification actions.
-
-Pre-requisites
---------------
-
-For this app you should be familiar with:
-
-* Creating and running apps in Android Studio.
-* Receiving Broadcast Intents in a Broadcast Receiver.
-* Creating a Notification with the Notification Builder.
-* Updating and Canceling Notifications.
-* Using PendingIntents to respond to Notification Actions.
-
-Getting Started
----------------
-
-1. Download and open the app in Android Studio.
 
 License
 -------
